@@ -33,7 +33,7 @@
 // 1 <= nums.length <= 500
 // 1 <= nums[i] <= 105
 
-public class FindMumberEven {
+public class FindNumberEven {
      public int findNumbers(int[] nums) {
 
         int count=0;
